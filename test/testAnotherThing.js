@@ -1,10 +1,10 @@
 // index.js
 
 // This is just for organisation and reporting
-describe('Our application', function() {
+describe('Another thing', function() {
 
     // This is the name of the test
-    it('should run a simple mocha test!', function(done) {
+    it('we are testing another thing with this one!', function(done) {
   
       // We want this test to pass.
       if (5 == 5) {
